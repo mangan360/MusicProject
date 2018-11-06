@@ -4,3 +4,4 @@
 4) Playlist of suggested songs 
 5) Save bands entire catalog into playlist if they are playing a gig in Ireland. 
 6) List suggested playlists
+7)
