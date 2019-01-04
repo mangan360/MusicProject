@@ -1,7 +1,0 @@
-1) Playlist - After listening to song, a playlist generates (Same song can't appear twice)
-2) Playlist - Make a playlist of artists like the artist you're listening too 
-3) Playlist - Songs in your area
-4) Playlist of suggested songs 
-5) Save bands entire catalog into playlist if they are playing a gig in Ireland. 
-6) List suggested playlists
-7)
